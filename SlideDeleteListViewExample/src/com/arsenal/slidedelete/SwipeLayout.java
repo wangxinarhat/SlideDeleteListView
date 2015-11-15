@@ -9,6 +9,10 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.FrameLayout;
 
+/**
+ * @author wang
+ *
+ */
 public class SwipeLayout extends FrameLayout {
 
 	private View contentView;// item内容区域的view
